@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá!
 
-<!--
-**giselesteves/giselesteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Sou a **Gisele Esteves**, uma <em>QA</em> apaixonada por <em>Qualidade de Software!</em>
+Atualmente trabalho na [Noesis](https://www.noesis.pt/) e meu foco é desenvolver skills em <em>Automação de Teste</em>.
 
-Here are some ideas to get you started:
+Nas horas livre amo cozinhar, contato com a natureza, gatos e estar com a familia e amigos. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Onde estou
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giselesteves)](https://github.com/giselesteves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselesteves/)](https://www.linkedin.com/in/giselesteves/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mundodeqa/)](https://instagram.com/mundodeqa)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:giesteves.adv@gmail.com)](mailto:giesteves.adv@gmail.com)
+
+<em>Vamos trocar ideias!</em><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
