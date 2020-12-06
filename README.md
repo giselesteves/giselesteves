@@ -5,7 +5,7 @@
 Sou a **Gisele Esteves**, uma <em>QA</em> apaixonada por <em>Qualidade de Software!</em>
 Atualmente trabalho na [Noesis](https://www.noesis.pt/) e meu foco é desenvolver skills em <em>Automação de Teste</em>.
 
-Nas horas livre amo cozinhar, contato com a natureza, gatos e estar com a familia e amigos. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
+Amo cozinhar, contato com a natureza, gatos e estar com a familia e amigos. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
 
 <img src="https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif" width="250" height= "200">
 
