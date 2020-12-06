@@ -7,8 +7,6 @@ Atualmente trabalho na [Noesis](https://www.noesis.pt/) e meu foco é desenvolve
 
 Nas horas vagas amo cozinhar e estar com a familia, amigos e pets. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
 
-<img src="https://thumbs.gfycat.com/SpeedyGlitteringGecko-size_restricted.gif" width="400">
-
 ### Onde estou:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giselesteves)](https://github.com/giselesteves)
@@ -17,3 +15,5 @@ Nas horas vagas amo cozinhar e estar com a familia, amigos e pets. Também escre
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:giesteves.adv@gmail.com)](mailto:giesteves.adv@gmail.com)
 
 **Vamos trocar ideias!**
+
+<img src="https://thumbs.gfycat.com/SpeedyGlitteringGecko-size_restricted.gif" width="400">
