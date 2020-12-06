@@ -4,7 +4,6 @@
 
 Sou a **Gisele Esteves**, uma <em>QA</em> apaixonada por <em>Qualidade de Software!</em>
 Atualmente trabalho na [Noesis](https://www.noesis.pt/) e meu foco é desenvolver skills em <em>Automação de Teste</em>.
-
 Nas horas vagas amo cozinhar e estar com a familia, amigos e pets. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
 
 ### Onde estou:
