@@ -7,7 +7,7 @@ Atualmente trabalho na [Noesis](https://www.noesis.pt/) e meu foco é desenvolve
 
 Nas horas vagas amo cozinhar e estar com a familia, amigos e pets. Também escrevo sobre <em>Qualidade de Software</em> no [@mundodeqa](https://instagram.com/mundodeqa). 
 
-<img src="https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif" width="250" height= "200">
+<img src="https://thumbs.gfycat.com/SpeedyGlitteringGecko-size_restricted.gif" width="400">
 
 ### Onde estou:
 
